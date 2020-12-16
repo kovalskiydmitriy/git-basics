@@ -31,5 +31,8 @@
 **push local repo changes to remote repo**<br>
 <code>git push -u origin master</code>
 **next to publish local changes to remote**<br>
-<code>git push</code>
+<code>git push</code><br><br>
+
+###Clone repository from remote to local
+<code>git clone <path to repository></code>
 
