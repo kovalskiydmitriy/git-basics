@@ -34,7 +34,7 @@
 <code>git push</code><br><br>
 
 ### Clone repository from remote to local<br>
-<code>git clone <path to repository></code>
+<code>git clone "path to repository" </code>
 
 ### Get latest code updates from remote repo (update local repo)<br>
 <code>git pull</code>
