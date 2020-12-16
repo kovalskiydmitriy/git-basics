@@ -36,3 +36,5 @@
 ###Clone repository from remote to local
 <code>git clone <path to repository></code>
 
+###get latest code updates from remote repo (update local repo)###
+<code>git pull</code>
